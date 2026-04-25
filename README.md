@@ -3,7 +3,7 @@
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hi!, I'm Jordan. I'm a student at the University of Arizona. I work on making sure my grades are good and that I'm still innovating!
 
 - 📍 Location: [Your City, State]
 - 🎓 Education: [Your University or School]
