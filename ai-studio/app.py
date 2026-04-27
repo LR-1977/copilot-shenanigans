@@ -1,6 +1,6 @@
 from google import genai
 from google.genai import types
-client = genai.Client(api_key='AIzaSyD3Q4AvT3wmAMPAD6cMZs7mBu7ZZK0UVH4')
+client = genai.Client(api_key='[put key here]')
 
 def generate_text(text):
    response = client.models.generate_content(
